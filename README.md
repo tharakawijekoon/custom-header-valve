@@ -1,5 +1,7 @@
 # custom-header-valve
 
+Tomcat valve for adding Content-Security-Policy (CSP) header to IS-5.7.0
+
 # Build, Deploy & Run
 
 ## Build
